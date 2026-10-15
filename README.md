@@ -22,10 +22,10 @@ Restaurant tips dataset (244 records, 7 columns) from the [seaborn-data](https:/
 - Smoking status has almost no effect on tipping (16.3% vs 15.9%).
 
 ## Visualizations
-![Revenue by Day](images/01_revenue_by_day.png)
-![Tip Percentage by Party Size](images/02_tip_pct_by_party_size.png)
-![Bill vs Tip](images/03_bill_vs_tip.png)
-![Tip Percentage Distribution](images/04_tip_pct_distribution.png)
+![Revenue by Day]
+![Tip Percentage by Party Size]
+![Bill vs Tip]
+![Tip Percentage Distribution]
 
 ## Limitations
 - Small sample (244 records), so results describe this sample only.
@@ -37,4 +37,4 @@ Restaurant tips dataset (244 records, 7 columns) from the [seaborn-data](https:/
 3. Open `restaurant_tipping_analysis.ipynb` in Jupyter Notebook and run all cells
 
 ## Author
-Your Name | [LinkedIn](https://www.linkedin.com/in/your-profile)
+Manish | [LinkedIn](https://www.linkedin.com/in/manish-singh-916a9b276/)
